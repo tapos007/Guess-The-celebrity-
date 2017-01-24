@@ -1,4 +1,4 @@
-# Its a Web Scrapping Application , getting 100 popular celebrity in the work
+# Its a Web Scrapping Application , getting 100 popular celebrity in the world
 
 ## you feel comportable to play this game
 
